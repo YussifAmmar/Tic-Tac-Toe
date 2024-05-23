@@ -1,1 +1,1 @@
-A simple TIC-TAC_TOE game
+A simple TIC-TAC-TOE game
